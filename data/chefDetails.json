@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "name": "Abus Ali",
+        "salary":"98k",
+        "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
+        "experience": "6 years",
+        "numberOfRecipe": "12",
+        "recipeDetails":["kabab","sorma","rice"],
+        "likes": "360"
+
+    },
+    {
+        "id": "1",
+        "name": "Abus Khalid",
+        "salary":"98k",
+        "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
+        "experience": "6 years",
+        "numberOfRecipe": "12",
+        "recipeDetails":["kabab","sorma","rice"],
+        "likes": "360"
+
+    },
+    {
+        "id": "1",
+        "name": "Abus Khalid",
+        "salary":"98k",
+        "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
+        "experience": "6 years",
+        "numberOfRecipe": "12",
+        "recipeDetails":["kabab","sorma","rice"],
+        "likes": "360"
+
+    },
+    {
+        "id": "1",
+        "name": "Abus Khalid",
+        "salary":"98k",
+        "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
+        "experience": "6 years",
+        "numberOfRecipe": "12",
+        "recipeDetails":["kabab","sorma","rice"],
+        "likes": "360"
+
+    }
+   
+]
