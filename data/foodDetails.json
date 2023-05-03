@@ -2,74 +2,98 @@
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
       "category_id": "1",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "title": "Testy Butter Bread",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "title": "Beef Kabab",
       "chef": {
         "name": "Abus Ali",
         "img": "https://i.ibb.co/MGqZvdF/ali.jpg"
       },
-      "image_url": "https://i.ibb.co/FxFn6tx/foodzone3.jpg",
-      "details": "Brioche is a common type of butter bread, but bakers from various cultures worldwide have their own versions. For example, butterzopf is a butter bread eaten for Sunday breakfast in parts of Switzerland. Dinner rolls are typically a form of butter bread, so are challah, French pain de mie, and German stollen.The comparatively high volume of fat in this type of bread adds sweetness. The fat also makes the bread dough tender and shortens."
+      "image_url": "https://i.ibb.co/1GXQFYR/beef1.jpg",
+      "details": "Using damp hands to prevent sticking, shape the kebabs onto long skewers. If you have large stainless steel skewers aim for one large kebab per person or use smaller skewers and aim for two per person. Cover the skewers and refrigerate for 30 minutes before cooking."
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab65",
       "category_id": "1",
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "title": "Testy Butter Bread",
+      "title": "Turkish Beef Skewers",
       "chef": {
         "name": "Abus Ali",
         "img": "https://i.ibb.co/MGqZvdF/ali.jpg"
       },
       "image_url": "https://i.ibb.co/FxFn6tx/foodzone3.jpg",
-      "details": "Brioche is a common type of butter bread, but bakers from various cultures worldwide have their own versions. For example, butterzopf is a butter bread eaten for Sunday breakfast in parts of Switzerland. Dinner rolls are typically a form of butter bread, so are challah, French pain de mie, and German stollen.The comparatively high volume of fat in this type of bread adds sweetness. The fat also makes the bread dough tender and shortens."
+      "details": "Heat the barbecue grill and barbecue the skewers for about 8 minutes, turning a few times to prevent burning. Serve hot off the grill with pita, yoghurt, tomato, onion and other salad accompaniments as desired."
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
       "category_id": "2",
-      "rating": { "number": 4.3, "badge": "Excellent" },
-      "title": "Testy Butter Bread",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "title": "Turkish Chicken Breasts",
       "chef": {
         "name": "Abus Ali",
         "img": "https://i.ibb.co/MGqZvdF/ali.jpg"
       },
-      "image_url": "https://i.ibb.co/FxFn6tx/foodzone3.jpg",
-      "details": "Brioche is a common type of butter bread, but bakers from various cultures worldwide have their own versions. For example, butterzopf is a butter bread eaten for Sunday breakfast in parts of Switzerland. Dinner rolls are typically a form of butter bread, so are challah, French pain de mie, and German stollen.The comparatively high volume of fat in this type of bread adds sweetness. The fat also makes the bread dough tender and shortens."
+      "image_url": "https://i.ibb.co/2vgqwKh/Turkish-Chicken.jpg",
+      "details": "The chicken breasts are filleted (cut into cutlets), so two large chicken breasts will feed four people, making this superb value for money. Plus, filleting the chicken ensures the chicken stays juicy and moist."
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
-      "category_id": "3",
+      "category_id": "2",
       "rating": { "number": 4.6, "badge": "Excellent" },
-      "title": "Testy Butter Bread",
+      "title": "Turkish Chicken Kebab",
       "chef": {
         "name": "Abus Ali",
         "img": "https://i.ibb.co/MGqZvdF/ali.jpg"
       },
-      "image_url": "https://i.ibb.co/FxFn6tx/foodzone3.jpg",
-      "details": "Brioche is a common type of butter bread, but bakers from various cultures worldwide have their own versions. For example, butterzopf is a butter bread eaten for Sunday breakfast in parts of Switzerland. Dinner rolls are typically a form of butter bread, so are challah, French pain de mie, and German stollen.The comparatively high volume of fat in this type of bread adds sweetness. The fat also makes the bread dough tender and shortens."
+      "image_url": "https://i.ibb.co/1GXQFYR/beef1.jpg",
+      "details": "The method of cooking meats on a skewer over an open fire originated on the steppes of central Asia. In Turkey, it’s said the descendants of Genghis Khan himself skewered their daily catch on their swords and cooked it over an open flame."
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
-      "category_id": "4",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "title": "Testy Butter Bread",
+      "category_id": "3",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "title": "vegetarian-stuffed-pepper",
       "chef": {
         "name": "Abus Ali",
         "img": "https://i.ibb.co/MGqZvdF/ali.jpg"
       },
-      "image_url": "https://i.ibb.co/FxFn6tx/foodzone3.jpg",
-      "details": "Brioche is a common type of butter bread, but bakers from various cultures worldwide have their own versions. For example, butterzopf is a butter bread eaten for Sunday breakfast in parts of Switzerland. Dinner rolls are typically a form of butter bread, so are challah, French pain de mie, and German stollen.The comparatively high volume of fat in this type of bread adds sweetness. The fat also makes the bread dough tender and shortens."
+      "image_url": "https://i.ibb.co/NrrsFfy/vegetarian-stuffed-peppers-1.jpg",
+      "details": "Turkish cuisine offers a large variety of Vegetarian Recipes, as many Turkish Side Dishes are made with fresh, seasonal vegetables and flavored with good quality olive oil and exotic spices."
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6h",
-      "category_id": "5",
+      "category_id": "4",
       "rating": { "number": 4.9, "badge": "Excellent" },
-      "title": "Testy Butter Bread",
+      "title": "Mini Ravioli",
       "chef": {
         "name": "Abus Ali",
         "img": "https://i.ibb.co/MGqZvdF/ali.jpg"
       },
-      "image_url": "https://i.ibb.co/FxFn6tx/foodzone3.jpg",
-      "details": "Brioche is a common type of butter bread, but bakers from various cultures worldwide have their own versions. For example, butterzopf is a butter bread eaten for Sunday breakfast in parts of Switzerland. Dinner rolls are typically a form of butter bread, so are challah, French pain de mie, and German stollen.The comparatively high volume of fat in this type of bread adds sweetness. The fat also makes the bread dough tender and shortens."
+      "image_url": "https://i.ibb.co/gTLpdsK/fast-food.jpg",
+      "details": "Consider a stuffed miniature raviolis! This is exactly what Manti food is, ravioli - boiled or fried beef/lamb meatballs with a variety of spices. It is the Turkish version of Italian food that you will surely discover your taste buds. Spicy minced meat will melt only in your mouth and garlic tastes very good with tomato sauce raviolis. It is a traditional Turkish food made with love in every home. This is a famous Turkish dish in India as well."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab66",
+      "category_id": "4",
+      "rating": { "number": 4.9, "badge": "Excellent" },
+      "title": "Turkish Soup",
+      "chef": {
+        "name": "Abus Ali",
+        "img": "https://i.ibb.co/MGqZvdF/ali.jpg"
+      },
+      "image_url": "https://i.ibb.co/tDgTmfv/fast-food2.jpg",
+      "details": "Consider a stuffed miniature raviolis! This is exactly what Manti food is, ravioli - boiled or fried beef/lamb meatballs with a variety of spices. It is the Turkish version of Italian food that you will surely discover your taste buds. Spicy minced meat will melt only in your mouth and garlic tastes very good with tomato sauce raviolis. It is a traditional Turkish food made with love in every home. This is a famous Turkish dish in India as well."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab67",
+      "category_id": "5",
+      "rating": { "number": 4.9, "badge": "Excellent" },
+      "title": "Turkish Coffee",
+      "chef": {
+        "name": "Abus Ali",
+        "img": "https://i.ibb.co/MGqZvdF/ali.jpg"
+      },
+      "image_url": "https://i.ibb.co/WKyRvZh/drinks.jpg",
+      "details": "Turkish coffee is one of the most popular Turkish drinks around.Unlike standard drip coffee, this is all about fine crafting. In fact, it’s a tradition that gets passed down from generation to generation!To make a proper pot, you’ll toss sugar, water, and coffee grounds into a cezve, a Turkish coffee pot."
     }
    
   ]
