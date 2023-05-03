@@ -1,69 +1,716 @@
 [
     {
         "id": "1",
-        "name": "Abus Ali",
-        "salary":"98k",
-        "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
+        "name": "Ali Güngörmüş",
+        "salary": "98k",
+        "chefImg": "https://i.ibb.co/MGqZvdF/ali.jpg",
         "experience": "6 years",
         "numberOfRecipe": "12",
-        "recipeDetails":["kabab","sorma","rice"],
-        "likes": "360"
-
+        "likes": "360",
+        "shortBio": "Ali Güngörmüş. Born in Tunceli in 1976, Ali Güngörmüş became the first Turkish chef to ever receive a Michelin star, which he did in 2006 for his restaurant ...",
+        "recipeName1": "Lahmacun",
+        "ingredients1": [
+            {
+                "id":"1",
+                "name": "Ground lamb",
+                "quantity": "1",
+                "unit": "pound"
+            },
+            {
+                "id":"2",
+                "name": "All-purpose flour",
+                "quantity": "2",
+                "unit": "cups"
+            },
+            {
+                "id":"3",
+                "name": "Tomato paste",
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            {
+                "id":"4",
+                "name": "Red bell pepper",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "id":"5",
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            }
+        ],
+        "recipeName2": "Adana Kebabı",
+        "ingredients2": [
+            {
+                "name": "Ground beef",
+                "quantity": "1",
+                "unit": "pound"
+            },
+            {
+                "name": "Red pepper flakes",
+                "quantity": "2",
+                "unit": "teaspoons"
+            },
+            {
+                "name": "Salt",
+                "quantity": "1/2",
+                "unit": "teaspoon"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "name": "Parsley",
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "unit": ""
+            },
+            {
+                "name": "Tomatoes",
+                "quantity": "2",
+                "unit": "medium"
+            }
+        ],
+        "recipeName3": "Mercimek Köftesi",
+        "ingredients3": [
+            {
+                "name": "Red lentils",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Bulgur",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Tomato paste",
+                "quantity": "2",
+                "unit": "tablespoons"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "name": "Parsley",
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            {
+                "name": "Mint",
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "unit": ""
+            }
+        ]
     },
     {
         "id": "2",
-        "name": "Abus Khalid",
-        "salary":"98k",
-        "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
-        "experience": "6 years",
+        "name": "Salt Bae",
+        "salary": "118k",
+        "chefImg": "https://i.ibb.co/kH94cx8/saltBae.jpg",
+        "experience": "10 years",
         "numberOfRecipe": "12",
-        "recipeDetails":["kabab","sorma","rice"],
-        "likes": "360"
-
+        "likes": "460",
+        "shortBio": "Nusret Gökçe, nicknamed Salt Bae, is a Turkish butcher, chef, food entertainer and restaurateur whose technique for preparing and seasoning meat became an Internet meme in January 2017. He owns Nusr-Et, a chain of luxury steak houses.",
+        "recipeName1": "Lahmacun",
+        "ingredients1": [
+            {
+                "id":"1",
+                "name": "Ground lamb",
+                "quantity": "1",
+                "unit": "pound"
+            },
+            {
+                "id":"2",
+                "name": "All-purpose flour",
+                "quantity": "2",
+                "unit": "cups"
+            },
+            {
+                "id":"3",
+                "name": "Tomato paste",
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            {
+                "id":"4",
+                "name": "Red bell pepper",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "id":"5",
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            }
+        ],
+        "recipeName2": "Adana Kebabı",
+        "ingredients2": [
+            {
+                "name": "Ground beef",
+                "quantity": "1",
+                "unit": "pound"
+            },
+            {
+                "name": "Red pepper flakes",
+                "quantity": "2",
+                "unit": "teaspoons"
+            },
+            {
+                "name": "Salt",
+                "quantity": "1/2",
+                "unit": "teaspoon"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "name": "Parsley",
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "unit": ""
+            },
+            {
+                "name": "Tomatoes",
+                "quantity": "2",
+                "unit": "medium"
+            }
+        ],
+        "recipeName3": "Mercimek Köftesi",
+        "ingredients3": [
+            {
+                "name": "Red lentils",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Bulgur",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Tomato paste",
+                "quantity": "2",
+                "unit": "tablespoons"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "name": "Parsley",
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            {
+                "name": "Mint",
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "unit": ""
+            }
+        ]
     },
     {
         "id": "3",
-        "name": "Abus Khalid",
-        "salary":"98k",
-        "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
-        "experience": "6 years",
-        "numberOfRecipe": "12",
-        "recipeDetails":["kabab","sorma","rice"],
-        "likes": "360"
-
+        "name": "CZN Burak",
+        "salary": "78k",
+        "chefImg": "https://i.ibb.co/P5Rcpvq/CZN-Burak.png",
+        "experience": "7 years",
+        "numberOfRecipe": "32",
+        "likes": "260",
+        "shortBio": "Burak Özdemir, known as CZN Burak, is a Turkish chef and restaurateur CZN, Özdemir's nickname, originates from a frequent mispronunciation of the Cinzano, the name of his father's textile shop in Laleli.",
+        "recipeName1": "Lahmacun",
+        "ingredients1": [
+            {
+                "id":"1",
+                "name": "Ground lamb",
+                "quantity": "1",
+                "unit": "pound"
+            },
+            {
+                "id":"2",
+                "name": "All-purpose flour",
+                "quantity": "2",
+                "unit": "cups"
+            },
+            {
+                "id":"3",
+                "name": "Tomato paste",
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            {
+                "id":"4",
+                "name": "Red bell pepper",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "id":"5",
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            }
+        ],
+        "recipeName2": "Adana Kebabı",
+        "ingredients2": [
+            {
+                "name": "Ground beef",
+                "quantity": "1",
+                "unit": "pound"
+            },
+            {
+                "name": "Red pepper flakes",
+                "quantity": "2",
+                "unit": "teaspoons"
+            },
+            {
+                "name": "Salt",
+                "quantity": "1/2",
+                "unit": "teaspoon"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "name": "Parsley",
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "unit": ""
+            },
+            {
+                "name": "Tomatoes",
+                "quantity": "2",
+                "unit": "medium"
+            }
+        ],
+        "recipeName3": "Mercimek Köftesi",
+        "ingredients3": [
+            {
+                "name": "Red lentils",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Bulgur",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Tomato paste",
+                "quantity": "2",
+                "unit": "tablespoons"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "name": "Parsley",
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            {
+                "name": "Mint",
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "unit": ""
+            }
+        ]
     },
     {
         "id": "4",
-        "name": "Abus Khalid",
-        "salary":"98k",
-        "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
-        "experience": "6 years",
-        "numberOfRecipe": "12",
-        "recipeDetails":["kabab","sorma","rice"],
-        "likes": "360"
-
+        "name": "Somer Sivrioğlu",
+        "salary": "68k",
+        "chefImg": "https://i.ibb.co/pyRKpsc/somer.jpg",
+        "experience": "9 years",
+        "numberOfRecipe": "32",
+        "likes": "460",
+        "shortBio": "Somer Sivrioğlu is a Turkish chef and restaurateur. Somer Sivrioğlu was born on 25 May 1971 in Istanbul, where he lived for 25 years. His mother was also a chef and restaurateur, and he gained an understanding of the Turkish cuisine early in life.",
+        "recipeName1": "Lahmacun",
+        "ingredients1": [
+            {
+                "id":"1",
+                "name": "Ground lamb",
+                "quantity": "1",
+                "unit": "pound"
+            },
+            {
+                "id":"2",
+                "name": "All-purpose flour",
+                "quantity": "2",
+                "unit": "cups"
+            },
+            {
+                "id":"3",
+                "name": "Tomato paste",
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            {
+                "id":"4",
+                "name": "Red bell pepper",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "id":"5",
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            }
+        ],
+        "recipeName2": "Adana Kebabı",
+        "ingredients2": [
+            {
+                "name": "Ground beef",
+                "quantity": "1",
+                "unit": "pound"
+            },
+            {
+                "name": "Red pepper flakes",
+                "quantity": "2",
+                "unit": "teaspoons"
+            },
+            {
+                "name": "Salt",
+                "quantity": "1/2",
+                "unit": "teaspoon"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "name": "Parsley",
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "unit": ""
+            },
+            {
+                "name": "Tomatoes",
+                "quantity": "2",
+                "unit": "medium"
+            }
+        ],
+        "recipeName3": "Mercimek Köftesi",
+        "ingredients3": [
+            {
+                "name": "Red lentils",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Bulgur",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Tomato paste",
+                "quantity": "2",
+                "unit": "tablespoons"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "name": "Parsley",
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            {
+                "name": "Mint",
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "unit": ""
+            }
+        ]
     },
     {
         "id": "5",
-        "name": "Abus Khalid",
-        "salary":"98k",
-        "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
-        "experience": "6 years",
+        "name": "Selin Kiazim",
+        "salary": "48k",
+        "chefImg": "https://i.ibb.co/5WyWcXN/selin.jpg",
+        "experience": "8 years",
         "numberOfRecipe": "12",
-        "recipeDetails":["kabab","sorma","rice"],
-        "likes": "360"
-
+        "likes": "360",
+        "shortBio": "Selin Kiazim is a British chef of Turkish Cypriot heritage who owns and runs the restaurant Oklava in London. In 2017, she was one of the winners of the BBC Two television series Great British Menu.",
+        "recipeName1": "Lahmacun",
+        "ingredients1": [
+            {
+                "id":"1",
+                "name": "Ground lamb",
+                "quantity": "1",
+                "unit": "pound"
+            },
+            {
+                "id":"2",
+                "name": "All-purpose flour",
+                "quantity": "2",
+                "unit": "cups"
+            },
+            {
+                "id":"3",
+                "name": "Tomato paste",
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            {
+                "id":"4",
+                "name": "Red bell pepper",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "id":"5",
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            }
+        ],
+        "recipeName2": "Adana Kebabı",
+        "ingredients2": [
+            {
+                "name": "Ground beef",
+                "quantity": "1",
+                "unit": "pound"
+            },
+            {
+                "name": "Red pepper flakes",
+                "quantity": "2",
+                "unit": "teaspoons"
+            },
+            {
+                "name": "Salt",
+                "quantity": "1/2",
+                "unit": "teaspoon"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "name": "Parsley",
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "unit": ""
+            },
+            {
+                "name": "Tomatoes",
+                "quantity": "2",
+                "unit": "medium"
+            }
+        ],
+        "recipeName3": "Mercimek Köftesi",
+        "ingredients3": [
+            {
+                "name": "Red lentils",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Bulgur",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Tomato paste",
+                "quantity": "2",
+                "unit": "tablespoons"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "name": "Parsley",
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            {
+                "name": "Mint",
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "unit": ""
+            }
+        ]
     },
     {
         "id": "6",
-        "name": "Abus Khalid",
-        "salary":"98k",
-        "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
-        "experience": "6 years",
+        "name": "Mehmet Gürs",
+        "salary": "88k",
+        "chefImg": "https://i.ibb.co/9bv7B6g/Mehmet-G-rs.jpg",
+        "experience": "7 years",
         "numberOfRecipe": "12",
-        "recipeDetails":["kabab","sorma","rice"],
-        "likes": "360"
-
+        "likes": "560",
+        "shortBio": "Mehmet Gürs is a Finnish-Turkish celebrity chef, television personality and restaurateur. He is considered to be Istanbul's most recognizable chef.",
+        "recipeName1": "Lahmacun",
+        "ingredients1": [
+            {
+                "id":"1",
+                "name": "Ground lamb",
+                "quantity": "1",
+                "unit": "pound"
+            },
+            {
+                "id":"2",
+                "name": "All-purpose flour",
+                "quantity": "2",
+                "unit": "cups"
+            },
+            {
+                "id":"3",
+                "name": "Tomato paste",
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            {
+                "id":"4",
+                "name": "Red bell pepper",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "id":"5",
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            }
+        ],
+        "recipeName2": "Adana Kebabı",
+        "ingredients2": [
+            {
+                "name": "Ground beef",
+                "quantity": "1",
+                "unit": "pound"
+            },
+            {
+                "name": "Red pepper flakes",
+                "quantity": "2",
+                "unit": "teaspoons"
+            },
+            {
+                "name": "Salt",
+                "quantity": "1/2",
+                "unit": "teaspoon"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "name": "Parsley",
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "unit": ""
+            },
+            {
+                "name": "Tomatoes",
+                "quantity": "2",
+                "unit": "medium"
+            }
+        ],
+        "recipeName3": "Mercimek Köftesi",
+        "ingredients3": [
+            {
+                "name": "Red lentils",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Bulgur",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Tomato paste",
+                "quantity": "2",
+                "unit": "tablespoons"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1",
+                "unit": "medium"
+            },
+            {
+                "name": "Parsley",
+                "quantity": "1/2",
+                "unit": "cup"
+            },
+            {
+                "name": "Mint",
+                "quantity": "1/4",
+                "unit": "cup"
+            },
+            {
+                "name": "Lemon",
+                "quantity": "1",
+                "unit": ""
+            }
+        ]
     }
-   
 ]

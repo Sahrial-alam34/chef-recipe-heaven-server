@@ -7,7 +7,7 @@ app.use(cors());
 const chefDetails = require('./data/chefDetails.json');
 const foodCategories = require('./data/foodCategories.json')
 const foodDetails = require('./data/foodDetails.json');
-const chefInfo = require('./data/chefInfo.json')
+
 app.get('/', (req, res)=>{
     res.send('Food  is running')
 });
