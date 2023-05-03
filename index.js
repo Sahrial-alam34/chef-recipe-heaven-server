@@ -7,18 +7,45 @@ app.use(cors());
 const chefDetails = require('./data/chefDetails.json');
 const foodCategories = require('./data/foodCategories.json')
 const foodDetails = require('./data/foodDetails.json');
+const chefInfo = require('./data/chefInfo.json')
 app.get('/', (req, res)=>{
     res.send('Food  is running')
 });
 
-app.get('/chefDetails',(req, res)=>{
-    res.send(chefDetails)
-})
+
 app.get('/foodCategories',(req, res)=>{
     res.send(foodCategories)
 })
 app.get('/food',(req,res)=>{
     res.send(foodDetails);
+})
+app.get('/food/:id',(req, res)=>{
+    const id = req.params.id;
+    //console.log('food',id)
+    const selectedFood = foodDetails.find(n=>n._id === id );
+    res.send(selectedFood)
+})
+
+app.get('/foodCategories/:id',(req, res)=>{
+    const id = parseInt(req.params.id);
+    //console.log('category',id)
+    if(id === 0 ){
+        res.send(foodDetails)
+    }
+    const foodCategory = foodDetails.filter(n=>parseInt(n.category_id) === id);
+    res.send(foodCategory)
+})
+app.get('/chefDetails',(req, res)=>{
+    res.send(chefDetails)
+})
+app.get('/chef',(req, res)=>{
+    res.send(chefInfo);
+})
+app.get('/chef/:id',(req, res)=>{
+    const id = req.params.id;
+    //console.log('chef',id)
+    const selectedChef = chefInfo.find(n=>n._id === id);
+    res.send(selectedChef);
 })
 
 app.listen(port, ()=>{
