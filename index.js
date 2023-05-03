@@ -38,14 +38,15 @@ app.get('/foodCategories/:id',(req, res)=>{
 app.get('/chefDetails',(req, res)=>{
     res.send(chefDetails)
 })
-app.get('/chef',(req, res)=>{
-    res.send(chefInfo);
-})
-app.get('/chef/:id',(req, res)=>{
+// app.get('/chef',(req, res)=>{
+//     res.send(chefInfo);
+// })
+app.get('/chefDetails/:id',(req, res)=>{
     const id = req.params.id;
-    //console.log('chef',id)
-    const selectedChef = chefInfo.find(n=>n._id === id);
-    res.send(selectedChef);
+     console.log('chef',id)
+    const selectedChef = chefDetails?.find(n=>n.id === id);
+    // console.log(selectedChef);
+     res.send(selectedChef);
 })
 
 app.listen(port, ()=>{
