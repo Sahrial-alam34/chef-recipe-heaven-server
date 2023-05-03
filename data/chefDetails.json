@@ -11,7 +11,7 @@
 
     },
     {
-        "id": "1",
+        "id": "2",
         "name": "Abus Khalid",
         "salary":"98k",
         "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
@@ -22,7 +22,7 @@
 
     },
     {
-        "id": "1",
+        "id": "3",
         "name": "Abus Khalid",
         "salary":"98k",
         "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
@@ -33,7 +33,29 @@
 
     },
     {
-        "id": "1",
+        "id": "4",
+        "name": "Abus Khalid",
+        "salary":"98k",
+        "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
+        "experience": "6 years",
+        "numberOfRecipe": "12",
+        "recipeDetails":["kabab","sorma","rice"],
+        "likes": "360"
+
+    },
+    {
+        "id": "5",
+        "name": "Abus Khalid",
+        "salary":"98k",
+        "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
+        "experience": "6 years",
+        "numberOfRecipe": "12",
+        "recipeDetails":["kabab","sorma","rice"],
+        "likes": "360"
+
+    },
+    {
+        "id": "6",
         "name": "Abus Khalid",
         "salary":"98k",
         "chefImg":"https://i.ibb.co/MGqZvdF/ali.jpg",
