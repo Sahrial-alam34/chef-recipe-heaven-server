@@ -28,7 +28,7 @@ app.get('/food/:id',(req, res)=>{
 
 app.get('/foodCategories/:id',(req, res)=>{
     const id = parseInt(req.params.id);
-    //console.log('category',id)
+    //console.log('category',id) category details
     if(id === 0 ){
         res.send(foodDetails)
     }
